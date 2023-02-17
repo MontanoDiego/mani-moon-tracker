@@ -24,6 +24,7 @@
   background-color: rgba(131, 131, 131, 0.507);
   background: linear-gradient(to top right, rgba(131, 131, 131, 0.171) 0%, rgb(131, 131, 131) 90%);
   border-radius: 50%;
+  box-shadow: -10px 12px 5px 1px rgba(0, 0, 0, 0.212);
 
   display: flex;
   justify-content: center;
