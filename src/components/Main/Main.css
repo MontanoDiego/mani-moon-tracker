@@ -1,6 +1,7 @@
 .main-container {
   height: 575px;
-  background: radial-gradient(circle, #2e2e2e 0%, #000000 30%);
+  width: 100%;
+  background: radial-gradient(circle, #2e2e2e 0%, #000000 40%);
   overflow: hidden;
 }
 
@@ -64,8 +65,8 @@
 
 .star:nth-of-type(6) {
   top: 80%;
-  left: 30%;
-  animation-delay: 2s;
+  left: 20%;
+  animation-delay: 3s;
 }
 
 .star:nth-of-type(7) {
